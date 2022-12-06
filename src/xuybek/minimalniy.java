@@ -9,7 +9,7 @@ public class minimalniy {
 
         for(int e = 0; e < sueta.length; e++) {
             System.out.print("бидяня номря яз: ");
-            int value = scanner .nextInt();
+            int value = scanner.nextInt();
             sueta[e] = value;
 
             int minimal = sueta[0];
