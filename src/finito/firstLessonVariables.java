@@ -21,6 +21,7 @@ public class firstLessonVariables {
     {
         // number2 = 12; - ERROR
         number = 12; // NOT ERROR
+        number = 19;
     }
 
 }
